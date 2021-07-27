@@ -5,7 +5,7 @@
 ######################################33
 
 #variables
-$regionalsettingsURL = "https://github.com/darrenord/Azure/blob/main/en_gb_region.xml"
+$regionalsettingsURL = "https://raw.githubusercontent.com/darrenord/Azure/main/en_gb_region.xml"
 $RegionalSettings = "C:\temp\en_gb_region.xml"
 
 
